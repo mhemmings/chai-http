@@ -53,11 +53,11 @@
     "@types/chai": "4",
     "@types/superagent": "^3.8.3",
     "charset": "^1.0.1",
-    "cookiejar": "^2.1.1",
+    "cookiejar": "^2.1.2",
     "is-ip": "^2.0.0",
     "methods": "^1.1.2",
     "qs": "^6.5.1",
-    "superagent": "^3.8.3"
+    "superagent": "^5.3.1"
   },
   "devDependencies": {
     "@semantic-release/changelog": "^3.0.2",
